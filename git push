@@ -1,0 +1,17 @@
+[33mcommit 2731349dea5bc7b413da80d96a7e94164ca69094[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: edge49 <edgar87atl@gmail.com>
+Date:   Wed Jan 4 13:11:21 2023 -0800
+
+    Edit README.md and hello_world.txt
+
+[33mcommit bcb36138d6982a2744d1db2c9d5a2a5d1a2464b4[m
+Author: edge49 <edgar87atl@gmail.com>
+Date:   Wed Jan 4 13:05:59 2023 -0800
+
+    Add hello_world.txt
+
+[33mcommit e9566c46bb2a53b05c24bad4c968a93e54a7c589[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: edge49 <edgar87atl@gmail.com>
+Date:   Wed Jan 4 12:53:56 2023 -0800
+
+    first commit
