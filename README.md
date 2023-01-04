@@ -3,3 +3,5 @@ my first git project dont know much about this but learning . this is going to b
 habving trouble from my terminal side
 i think everything got deleted
 trying again
+
+and finalyy here
